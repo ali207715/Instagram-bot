@@ -5,6 +5,7 @@ To use the filter, you need to utlize two datasets, a training and your main tes
 Simply launch the main.py file and run it, and a list of emails from the testing dataset will be printed in the terminal, with the name of the file and its SPAM or HAM right next to it. It would look something like this -  
 ![img](https://github.com/ali207715/Spam-filter/blob/main/1.PNG?raw=true).  
 
+**NOTE : IF USING YOUR OWN DATASET FOR TESTING, MAKE SURE TO HAVE FOLDERS NAMED "corpus" INSIDE WHICH YOU SHOULD HAVE TWO MORE NAMED "training" , "testing".**  
 If using your own dataset, you may use the training dataset provided and simply place the email you want to be tested in the "testing" folder under "corpus".  
 Then proceed as instructed above.  
 
